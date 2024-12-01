@@ -1,0 +1,9 @@
+insurance:
+  country: Brazil
+  currency: real
+  coefficient:
+    robbery: 0.05
+    medical: 0.03
+  base-price:
+    robbery: 300
+    medical: 800

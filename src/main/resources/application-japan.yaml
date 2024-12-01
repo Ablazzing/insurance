@@ -1,0 +1,9 @@
+insurance:
+  country: Japan
+  currency: yen
+  coefficient:
+    robbery: 0.01
+    medical: 0.015
+  base-price:
+    robbery: 10000
+    medical: 12000
